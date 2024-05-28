@@ -22,3 +22,8 @@ vehicles through deep architectures trained on customized datasets.
 https://www.kaggle.com/code/imvivekthakur/1-viz-ships-satelliteimagery
 https://www.kaggle.com/code/imvivekthakur/4-1-aircraftrecognition-satellitemagery
 https://www.kaggle.com/code/imvivekthakur/2-shipsdetection-satelliteimagery
+
+### Dataset Link
+[Ships in Satellite Imagery
+]([https://www.kaggle.com/code/harshranjan01/military-vechicle-detection-system-001](https://www.kaggle.com/datasets/rhammell/ships-in-satellite-imagery))
+[Satellite Imagery of Ships](https://www.kaggle.com/datasets/apollo2506/satellite-imagery-of-ships)
